@@ -1,10 +1,10 @@
 ### Hi there ! I'm Benjamin - aka [Benny][website] 👋
 
-## I'm french, 25, Front-End Developer since 3 years.
-- 💼 Currently **employed** into french society named _Alchimie_, **since october 2019** with an awesome teammate.
+## I'm french, 25, Front-End Developer since soon 4 years.
+- 💼 Currently **employed** into french society named _Alchimie_, **since october 2019** with an awesome teammates.
 - 🔭 Currently looking at some good stuff on GitHub.
 - 🔍 Looking for collaborate on open-source projects or teams.
-- 🥅 Goals 2020 : Learn VueJS, improve on ReactJS, learn many things, contribute.
+- 🥅 Goals 2021 : Learn VueJS 3, improve on ReactJS, learn many things, contribute.
 
 <br />
 <br />
