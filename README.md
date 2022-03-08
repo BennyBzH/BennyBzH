@@ -1,6 +1,6 @@
 ### Hi there ! I'm Benjamin - aka [Benny][website] 👋
 
-## I'm french, 26, Front-End Developer since soon 4 years.
+## I'm french, 27, Front-End Developer since 6 years.
 - 💼 Currently **employed** into french society named _Alchimie_, **since october 2019** with an awesome teammates.
 - 🔭 Currently looking at some good stuff on GitHub.
 - 🔍 Looking for collaborate on open-source projects or teams.
@@ -27,7 +27,7 @@
 
 ### Social & Website
 Follow me on [TWITTER][twitter] <br>
-Visite my [WEBSITE (FR)][website]<br>
+Visit my [WEBSITE (FR)][website]<br>
 Contact me at **BENJAMIN-PIEL@BENNY.BZH**
 
 [website]: https://benny.bzh
