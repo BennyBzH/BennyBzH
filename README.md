@@ -1,10 +1,10 @@
 ### Hi there ! I'm Benjamin - aka [Benny][website] 👋
 
-## I'm french, 27, Front-End Developer since 6 years.
+## I'm french, 27, Front-End Developer since ~5 years.
 - 💼 Currently **employed** into french society named _Alchimie_, **since october 2019** with an awesome teammates.
 - 🔭 Currently looking at some good stuff on GitHub.
 - 🔍 Looking for collaborate on open-source projects or teams.
-- 🥅 Goals 2021 : Learn VueJS 3, improve on ReactJS, learn many things, contribute.
+- 🥅 Goals 2022 : Learn VueJS 3, Learn TypeScript, improve on ReactJS, learn many things, contribute.
 
 <br />
 <br />
@@ -16,7 +16,7 @@
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="ReactJS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg" />
+<img align="left" alt="TailwindCSS" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/tailwindcss.svg" />
 <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
