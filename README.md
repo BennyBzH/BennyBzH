@@ -1,10 +1,27 @@
 ### Hi there ! I'm Benjamin - aka [Benny][website] 👋
 
-## I'm french, 27, Front-End Developer since ~5 years.
-- 💼 Currently **employed** into french society named _Alchimie_, **since october 2019** with an awesome teammates.
+## I'm french, 29, Front-End Developer since ~7 years.
+- 💼 Currently **employed** into french society named _Younup_, **since october 2022** with an awesome teammates.
 - 🔭 Currently looking at some good stuff on GitHub.
 - 🔍 Looking for collaborate on open-source projects or teams.
-- 🥅 Goals 2022 : Learn VueJS 3, Learn TypeScript, improve on ReactJS, learn many things, contribute.
+
+---
+
+### 🥅 Future Goals
+- Become Lead Dev
+ - Launch an App
+
+### 🥅 Goals 2024
+ - Improve on TypeScript
+ - Learn Back-End Stacks, Symfony, NodeJS, Bun (suggest ?)
+ - Learn NextJS
+ - Learn Remix.run
+
+### 🥅 Goals 2023
+ - (✅) Learn TypeScript 
+ - (✅) Improve on ReactJS
+ - (✅) Improve on JavaScript
+ - Learn VueJS
 
 <br />
 <br />
